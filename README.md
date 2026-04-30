@@ -6,7 +6,7 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-landim-12a2a7361?trk=people-guest_people_search-card)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolandim1205@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](/cv/curriculo Pedro Landim.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](/cv/curriculo-Pedro-Landim.pdf)
  
 ---
  
@@ -47,10 +47,10 @@ Atualmente cursando o 1º semestre período de engenharia de software na UNICID.
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programação de computadores 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Algoritimo de Auditoria de Dados** | Um programa que analisa a consistencia de dados financeiros, ultilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomaçias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
