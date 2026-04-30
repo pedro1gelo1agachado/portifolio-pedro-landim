@@ -1,5 +1,5 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Pedro Landim
+> Estudante de Engenharia de software Universidade Cidade de São Paulo (UNICID)
  
 ---
  
